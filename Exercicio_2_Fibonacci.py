@@ -15,7 +15,7 @@ while valor != -1:
     if (valor == 0 or valor == 1):
         print("O número", valor, " pertence a sequencia de Fibonacci.")
 
-    #calculamos a sequencia de fib enquanto f3 seja menor que valor
+    #calculamos a sequencia de fib enquanto a seja menor que valor
     else: 
         while a < valor:
             a = b + c
