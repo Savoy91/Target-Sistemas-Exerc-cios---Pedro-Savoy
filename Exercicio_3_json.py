@@ -1,4 +1,4 @@
-#escolhi utilizar o arquivo json para o exercício
+#Escolhi utilizar o arquivo json para o exercício
 
 import json
 
