@@ -1,4 +1,5 @@
 #Escolhi utilizar o arquivo json para o exercício
+#Retirei todos os valores 0 como o enunciado pede
 
 import json
 
